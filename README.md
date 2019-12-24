@@ -1,2 +1,3 @@
 # COMP5318
-Assignment in COMP5318 Machine Learning and Data Mining
+Assignment1 in COMP5318 Machine Learning and Data Mining
+
